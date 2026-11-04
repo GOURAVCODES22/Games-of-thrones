@@ -24,4 +24,4 @@ GitHub/Vercel-ready cinematic site for the existing Game of Thrones project.
 The hero uses the complete master timeline split into two high-quality video segments. The on-screen frame counter maps scroll progress across all 1,114 source frames; it is not 1,114 separate image files.
 
 # LINk
-thegamesofthrones.vercel.app
+https://thegamesofthrones.vercel.app/
